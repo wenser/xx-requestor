@@ -1,0 +1,22 @@
+{
+  "name": "xx-requestor",
+  "version": "1.0.0",
+  "description": "封装了request请求，开包即用，能够自动处理请求异常，状态码判断，错误处理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenser/xx-requestor.git"
+  },
+  "keywords": [
+    "shangge"
+  ],
+  "author": "wenser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenser/xx-requestor/issues"
+  },
+  "homepage": "https://github.com/wenser/xx-requestor#readme"
+}
